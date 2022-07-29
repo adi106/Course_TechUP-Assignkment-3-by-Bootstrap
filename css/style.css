@@ -3,11 +3,15 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    background: linear-gradient(45deg, #ececc2, #aebabe);
+}
 
-.btn-blue,
+
+.btn-secondary,
 .btn-outline-blue:hover,
-.btn-blue:hover {
-    background-color: #289BDE;
+.btn-secondary:hover {
+    background-color: #b0b8bd;
     border: 1px solid #289BDE;
     color: white;
     padding: 10px 25px;
